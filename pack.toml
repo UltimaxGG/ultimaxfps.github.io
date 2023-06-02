@@ -1,0 +1,11 @@
+name = "UltimaxFPS"
+pack-format = "packwiz:1.1.0"
+
+[versions]
+minecraft = "1.19.2"
+fabric = "0.14.21"
+
+[index]
+file = "index.toml"
+hash-format = "sha512"
+hash = "014b8321d77d7144ec27f596d9fbfc2563455da54a39351e0439e7e41f92a0728d94dbbeb6025fbd6c64b4495c82a11bef4efaf325c0545ae73c93d9e17a5761"
